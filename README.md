@@ -40,6 +40,7 @@ Each file includes:
 * Day 12: Majority Element (#169)
 * Day 13: Add Digits (#258) --- Good
 * Day 14: Move Zeroes (#283)
+* Day 15: Sqrt(x) (#69)
 ---
 
 ## 🎯 Goals
