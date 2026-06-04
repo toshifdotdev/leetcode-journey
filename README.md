@@ -42,6 +42,7 @@ Each file includes:
 * Day 14: Move Zeroes (#283)
 * Day 15: Sqrt(x) (#69)
 * Day 16: Valid Palindrome (#125)
+* Day 17: Fibonacci Number (#509)
 ---
 
 ## 🎯 Goals
