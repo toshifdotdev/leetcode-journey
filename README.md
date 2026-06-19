@@ -44,7 +44,8 @@ Each file includes:
 * Day 16: Valid Palindrome (#125)
 * Day 17: Fibonacci Number (#509)
 * Day 18: Happy Number (#202)
-* Day 19: 
+* Day 19: Frequency of the Most Frequent Element (#1838)
+* Day 20: 
 ---
 
 ## 🎯 Goals
