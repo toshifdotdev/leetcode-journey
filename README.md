@@ -45,7 +45,8 @@ Each file includes:
 * Day 17: Fibonacci Number (#509)
 * Day 18: Happy Number (#202)
 * Day 19: Frequency of the Most Frequent Element (#1838)
-* Day 20: 
+* Day 20: Remove Duplicates from Sorted Array (#26)
+* Day 21: 
 ---
 
 ## 🎯 Goals
