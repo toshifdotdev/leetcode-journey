@@ -46,7 +46,7 @@ Each file includes:
 * Day 18: Happy Number (#202)
 * Day 19: Frequency of the Most Frequent Element (#1838)
 * Day 20: Remove Duplicates from Sorted Array (#26)
-* Day 21: 
+* Day 21: Check if Array Is Sorted and Rotated (#1752)
 ---
 
 ## 🎯 Goals
