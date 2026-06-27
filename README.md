@@ -48,7 +48,7 @@ Each file includes:
 * Day 20: Remove Duplicates from Sorted Array (#26)
 * Day 21: -> Check if Array Is Sorted and Rotated (#1752)
           -> Rotate Array (#189)
-* Day 22: 
+* Day 22: Two Sum (#1)
 
 ---
 
