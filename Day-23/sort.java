@@ -1,11 +1,18 @@
 // Problem: Sort Colors (#75)
 // Date: 28-06-2026
 
-// Approach 1 (Brute Force):
+
+// Approach 1 (Brute Force)
+// Use Merge Sort
+// TC : O(nlogn)
+// SC : O(1)
+
+
+// Approach 2 (Better Approach):
 // Count the number of 0s, 1s and 2s,
 // then overwrite the array.
 //
-// Time Complexity: O(n)
+// Time Complexity: O(2n)
 // Space Complexity: O(1)
 
 
@@ -14,15 +21,15 @@
 //
 // Maintain three pointers:
 //
-// low  -> next position for 0
-// mid  -> current element being processed
-// high -> next position for 2
+// low  -> 0
+// mid  -> 0
+// high -> n-1
 //
 // Regions:
 // ------------------------------------------------
 // 0 ... low-1      -> all 0s
 // low ... mid-1    -> all 1s
-// mid ... high     -> unknown elements
+// mid ... high     -> elements unsorted
 // high+1 ... n-1   -> all 2s
 // ------------------------------------------------
 //
@@ -40,9 +47,10 @@
 //      swap(mid, high)
 //      high--
 //
-// Note:
-// When swapping with high, DO NOT increment mid.
-// The new element at mid has not been processed yet.
+
+//----------------------------------
+// REMEMBER THE DIAGRAM DRAWN IN NB
+//----------------------------------
 
 // Example:
 // nums = [2,0,2,1,1,0]
