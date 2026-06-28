@@ -49,6 +49,7 @@ Each file includes:
 * Day 21: -> Check if Array Is Sorted and Rotated (#1752)
           -> Rotate Array (#189)
 * Day 22: Two Sum (#1)
+* Day 23: Sort Colors (#75)
 
 ---
 
