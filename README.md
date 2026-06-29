@@ -50,8 +50,10 @@ Each file includes:
           -> Rotate Array (#189)
 * Day 22: Two Sum (#1)
 * Day 23: -> Sort Colors (#75)
-          -> Maximum Subarray (#53)
-* Day 24: Best Time to Buy and Sell Stock (#121)
+          -> Maximum Subarray (#53)     
+* Day 24: -> Best Time to Buy and Sell Stock (#121)
+          -> Rearrange Array Elements by Sign (#2149)
+          -> 
 * Day 25: 
 
 ---
