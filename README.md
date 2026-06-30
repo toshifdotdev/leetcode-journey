@@ -54,7 +54,8 @@ Each file includes:
 * Day 24: -> Best Time to Buy and Sell Stock (#121)
           -> Rearrange Array Elements by Sign (#2149)
           -> Next Permutation (#31)
-* Day 25: 
+* Day 25: Longest Consecutive Sequence (#128)
+* Day 26: 
 
 ---
 
