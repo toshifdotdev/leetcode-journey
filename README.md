@@ -55,7 +55,8 @@ Each file includes:
           -> Rearrange Array Elements by Sign (#2149)
           -> Next Permutation (#31)
 * Day 25: Longest Consecutive Sequence (#128)
-* Day 26: Set Matrix Zeroes (#73)
+* Day 26: -> Set Matrix Zeroes (#73)
+          -> Rotate Image (#48)
 * Day 27: 
 
 ---

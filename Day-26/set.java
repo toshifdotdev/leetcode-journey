@@ -2,10 +2,12 @@
 // Date: 01-07-2026
 
 // Approach 1 (Brute Force):
-// Whenever a zero is found,
-// immediately mark its entire row and column.
+// Whenever a zero is found, first replace 
+// immediately its entire row and column to -1.
+// Then again a loop wil go making -1 to 0...
 //
-// Time Complexity: O((n*m)*(n+m))
+// Time Complexity: O((n*m)*(n+m) + (n*m)) 
+// Somewhere about n^3 
 // Space Complexity: O(1)
 
 
@@ -43,44 +45,30 @@ class Solution {
         int n = matrix.length;
         int m = matrix[0].length;
 
-        // Stores whether the first column
-        // originally contained a zero.
         int col0 = 1;
 
-        // ------------------------------
-        // Step 1: Mark rows and columns
-        // ------------------------------
         for(int i = 0; i < n; i++) {
 
             for(int j = 0; j < m; j++) {
 
                 if(matrix[i][j] == 0) {
 
-                    // Mark the row
                     matrix[i][0] = 0;
 
-                    // Mark the column
                     if(j != 0) {
                         matrix[0][j] = 0;
                     }
                     else {
-                        // First column handled separately
                         col0 = 0;
                     }
                 }
             }
         }
 
-        // ---------------------------------------
-        // Step 2: Fill remaining cells with zero
-        // ---------------------------------------
+     
         for(int i = 1; i < n; i++) {
-
             for(int j = 1; j < m; j++) {
-
-                // Ignore cells that are already zero.
                 if(matrix[i][j] != 0) {
-
                     if(matrix[i][0] == 0 || matrix[0][j] == 0) {
                         matrix[i][j] = 0;
                     }
@@ -88,21 +76,14 @@ class Solution {
             }
         }
 
-        // ------------------------------
-        // Step 3: Handle first row
-        // ------------------------------
         if(matrix[0][0] == 0) {
-
             for(int j = 1; j < m; j++) {
                 matrix[0][j] = 0;
             }
         }
 
-        // ------------------------------
-        // Step 4: Handle first column
-        // ------------------------------
+ 
         if(col0 == 0) {
-
             for(int i = 0; i < n; i++) {
                 matrix[i][0] = 0;
             }
