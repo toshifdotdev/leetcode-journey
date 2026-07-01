@@ -57,7 +57,8 @@ Each file includes:
 * Day 25: Longest Consecutive Sequence (#128)
 * Day 26: -> Set Matrix Zeroes (#73)
           -> Rotate Image (#48)
-* Day 27: 
+          -> Spiral Matrix (#54)
+* Day 27: Subarray Sum Equals K (#560)
 
 ---
 
