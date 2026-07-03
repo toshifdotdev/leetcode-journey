@@ -59,7 +59,8 @@ Each file includes:
           -> Rotate Image (#48)
           -> Spiral Matrix (#54)
 * Day 27: Subarray Sum Equals K (#560)
-* Day 28: Pascal's Triangle (#118)
+* Day 28: -> Pascal's Triangle (#118)
+          -> Majority Element II (#229)
 * Day 29: 
 ---
 
