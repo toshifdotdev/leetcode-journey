@@ -61,7 +61,8 @@ Each file includes:
 * Day 27: Subarray Sum Equals K (#560)
 * Day 28: -> Pascal's Triangle (#118)
           -> Majority Element II (#229)
-* Day 29: 
+* Day 29: -> 3Sum (#15)
+          -> 
 ---
 
 ## 🎯 Goals
