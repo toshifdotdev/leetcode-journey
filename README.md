@@ -62,7 +62,7 @@ Each file includes:
 * Day 28: -> Pascal's Triangle (#118)
           -> Majority Element II (#229)
 * Day 29: -> 3Sum (#15)
-          -> 
+          -> 4Sum (#18)
 ---
 
 ## 🎯 Goals
