@@ -63,6 +63,7 @@ Each file includes:
           -> Majority Element II (#229)
 * Day 29: -> 3Sum (#15)
           -> 4Sum (#18)
+* Day 30: -> Merge Intervals (#56)
 ---
 
 ## 🎯 Goals
