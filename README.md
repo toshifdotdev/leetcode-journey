@@ -65,7 +65,7 @@ Each file includes:
           -> 4Sum (#18)
 * Day 30: -> Merge Intervals (#56)
           -> Merge Sorted Array (#88)
-* Day 31: 
+* Day 31: Maximum Product Subarray (#152)
 ---
 
 ## 🎯 Goals
