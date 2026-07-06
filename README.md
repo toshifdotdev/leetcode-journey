@@ -64,6 +64,8 @@ Each file includes:
 * Day 29: -> 3Sum (#15)
           -> 4Sum (#18)
 * Day 30: -> Merge Intervals (#56)
+          -> Merge Sorted Array (#88)
+* Day 31: 
 ---
 
 ## 🎯 Goals
