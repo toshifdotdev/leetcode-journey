@@ -66,6 +66,8 @@ Each file includes:
 * Day 30: -> Merge Intervals (#56)
           -> Merge Sorted Array (#88)
 * Day 31: Maximum Product Subarray (#152)
+* Day 32: Reverse Pairs (#493)
+* Day 33: 
 ---
 
 ## 🎯 Goals
