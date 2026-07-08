@@ -67,7 +67,7 @@ Each file includes:
           -> Merge Sorted Array (#88)
 * Day 31: Maximum Product Subarray (#152)
 * Day 32: Reverse Pairs (#493)
-* Day 33: 
+* Day 33: Binary Search (#704)
 ---
 
 ## 🎯 Goals
