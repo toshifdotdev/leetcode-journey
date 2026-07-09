@@ -68,7 +68,8 @@ Each file includes:
 * Day 31: Maximum Product Subarray (#152)
 * Day 32: Reverse Pairs (#493)
 * Day 33: Binary Search (#704)
-* Day 34: Find First and Last Position of Element in Sorted Array (#34)
+* Day 34: -> Find First and Last Position of Element in Sorted Array (#34)
+          -> Search in Rotated Sorted Array (#33)
 ---
 
 ## 🎯 Goals
