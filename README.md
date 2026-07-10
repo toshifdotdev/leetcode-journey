@@ -72,7 +72,7 @@ Each file includes:
           -> Search in Rotated Sorted Array (#33)
           -> Search in Rotated Sorted Array II (#81)
 * Day 35: -> Find Minimum in Rotated Sorted Array (#153)
-          ->
+          -> Single Element in a Sorted Array (#540)
           -> 
 ---
 
