@@ -73,7 +73,8 @@ Each file includes:
           -> Search in Rotated Sorted Array II (#81)
 * Day 35: -> Find Minimum in Rotated Sorted Array (#153)
           -> Single Element in a Sorted Array (#540)
-          -> 
+          -> Find Peak Element (#162)
+* Day 36: 
 ---
 
 ## 🎯 Goals
