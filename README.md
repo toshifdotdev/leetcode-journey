@@ -74,7 +74,9 @@ Each file includes:
 * Day 35: -> Find Minimum in Rotated Sorted Array (#153)
           -> Single Element in a Sorted Array (#540)
           -> Find Peak Element (#162)
-* Day 36: 
+* Day 36: -> Koko Eating Bananas (#875)
+          ->
+* Day 37: 
 ---
 
 ## 🎯 Goals
