@@ -75,8 +75,9 @@ Each file includes:
           -> Single Element in a Sorted Array (#540)
           -> Find Peak Element (#162)
 * Day 36: -> Koko Eating Bananas (#875)
-          ->
-* Day 37: 
+* Day 37: Minimum Number of Days to Make m Bouquets (#1482)
+* Day 38: 
+
 ---
 
 ## 🎯 Goals
