@@ -76,7 +76,9 @@ Each file includes:
           -> Find Peak Element (#162)
 * Day 36: -> Koko Eating Bananas (#875)
 * Day 37: Minimum Number of Days to Make m Bouquets (#1482)
-* Day 38: 
+* Day 38: -> Find the Smallest Divisor Given a Threshold (#1283)
+          -> Capacity To Ship Packages Within D Days (#1011)
+* Day 39: 
 
 ---
 
