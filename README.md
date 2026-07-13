@@ -79,7 +79,7 @@ Each file includes:
 * Day 38: -> Find the Smallest Divisor Given a Threshold (#1283)
           -> Capacity To Ship Packages Within D Days (#1011)
 * Day 39: -> Magnetic Force Between Two Balls (#1552)
-          -> 
+          -> Kth Missing Positive Number (#1539)
 * Day 40:
 
 ---
