@@ -78,7 +78,9 @@ Each file includes:
 * Day 37: Minimum Number of Days to Make m Bouquets (#1482)
 * Day 38: -> Find the Smallest Divisor Given a Threshold (#1283)
           -> Capacity To Ship Packages Within D Days (#1011)
-* Day 39: 
+* Day 39: -> Magnetic Force Between Two Balls (#1552)
+          -> 
+* Day 40:
 
 ---
 
