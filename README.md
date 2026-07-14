@@ -80,7 +80,7 @@ Each file includes:
           -> Capacity To Ship Packages Within D Days (#1011)
 * Day 39: -> Magnetic Force Between Two Balls (#1552)
           -> Kth Missing Positive Number (#1539)
-* Day 40:
+* Day 40: Split Array Largest Sum (#410)
 
 ---
 
