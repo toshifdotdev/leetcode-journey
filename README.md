@@ -81,7 +81,7 @@ Each file includes:
 * Day 39: -> Magnetic Force Between Two Balls (#1552)
           -> Kth Missing Positive Number (#1539)
 * Day 40: Split Array Largest Sum (#410)
-
+* Day 41: Median of Two Sorted Arrays (#4)
 ---
 
 ## 🎯 Goals
