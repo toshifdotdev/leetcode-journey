@@ -90,7 +90,8 @@ Each file includes:
 * Day 45: Delete Node in a Linked List (#237)  
 * Day 46: Reverse Words in a String (#151)  
 * Day 47: Largest Odd Number in String (#1903)  
-* Day 48:
+* Day 48: -> Reverse Linked List (#206)  
+          ->
 
 ---
 
