@@ -1,9 +1,10 @@
 /**
- * Problem: Linked List Cycle (#141)
+ * Problem: Linked List Cycle II (#142)
  * Date: 25-07-2026
  *
- * Approach (Optimal - Tortoise and Hare Algorithm)
-
+ * 
+ * Approach (Optimal - Floyd's Cycle Detection Algorithm)
+ 
  * Time Complexity:
  * O(n)
  *
@@ -13,10 +14,7 @@
  * ------------------------------------------------------------
  *
  * Alternative Approach:
- *
- * Use a HashMap (or HashSet) to store visited nodes.
- * If a node is visited again, a cycle exists.
- *
+
  * Time Complexity : O(n)
  * Space Complexity: O(n)
  *
@@ -37,28 +35,40 @@
 
 public class Solution {
 
-    public boolean hasCycle(ListNode head) {
+    public ListNode detectCycle(ListNode head) {
 
         // ---------------- Optimal Approach ----------------
-        // Tortoise and Hare Algorithm
+        // Floyd's Cycle Detection Algorithm
 
         ListNode slow = head;
         ListNode fast = head;
 
-        // Move slow by one step and fast by two steps
+        // Step 1: Find the collision point inside the cycle
         while (fast != null && fast.next != null) {
 
             slow = slow.next;
             fast = fast.next.next;
 
-            // If both pointers meet, a cycle exists
-            if (fast == slow)
-                return true;
+            // Collision detected
+            if (slow == fast) {
+
+                // Step 2:
+                // Move slow back to head.
+                // Move both pointers one step at a time.
+                // Their meeting point will be the start of the cycle.
+                slow = head;
+
+                while (slow != fast) {
+                    slow = slow.next;
+                    fast = fast.next;
+                }
+
+                return slow;
+            }
         }
 
-        // Fast pointer reached the end
         // No cycle exists
-        return false;
+        return null;
 
 
         // ---------------- Brute Force Approach ----------------
@@ -71,7 +81,7 @@ public class Solution {
 
             // Node already visited
             if (hm.containsKey(temp)) {
-                return true;
+                return temp;
             }
 
             hm.put(temp, 1);
@@ -79,7 +89,7 @@ public class Solution {
             temp = temp.next;
         }
 
-        return false;
+        return null;
         */
     }
 }

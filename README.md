@@ -94,7 +94,7 @@ Each file includes:
           -> Add Two Numbers (#2)  
           -> Middle of the Linked List (#876)
 * Day 49: -> Linked List Cycle (#141)  
-          -> 
+          -> Linked List Cycle II (#142)  
 
 ---
 
