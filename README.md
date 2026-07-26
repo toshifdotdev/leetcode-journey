@@ -95,7 +95,9 @@ Each file includes:
           -> Middle of the Linked List (#876)
 * Day 49: -> Linked List Cycle (#141)  
           -> Linked List Cycle II (#142)  
-* Day 50: Palindrome Linked List (#234)
+* Day 50: -> Palindrome Linked List (#234)  
+          -> Odd Even Linked List (#328)
+* Day 51: 
 
 ---
 
