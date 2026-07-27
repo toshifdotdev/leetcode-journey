@@ -97,7 +97,8 @@ Each file includes:
           -> Linked List Cycle II (#142)  
 * Day 50: -> Palindrome Linked List (#234)  
           -> Odd Even Linked List (#328)
-* Day 51: 
+* Day 51: -> Delete the Middle Node of a Linked List (#2095)  
+          -> 
 
 ---
 
