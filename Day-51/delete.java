@@ -1,6 +1,6 @@
 /**
  * Problem: Delete the Middle Node of a Linked List (#2095)
- * Date: 25-07-2026
+ * Date: 27-07-2026
  *
  * Approach (Optimal - Tortoise and Hare Algorithm)
 
