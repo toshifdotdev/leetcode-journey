@@ -101,6 +101,7 @@ Each file includes:
           -> Remove Nth Node From End of List (#19)
 * Day 52: -> Merge Two Sorted Lists (#21)  
           -> Sort List (#148)
+* Day 53: Intersection of Two Linked Lists (#160)
 
 ---
 
