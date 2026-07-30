@@ -102,6 +102,7 @@ Each file includes:
 * Day 52: -> Merge Two Sorted Lists (#21)  
           -> Sort List (#148)
 * Day 53: Intersection of Two Linked Lists (#160)
+* Day 54: Remove Linked List Elements (#203)
 
 ---
 
