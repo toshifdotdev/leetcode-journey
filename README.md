@@ -106,7 +106,7 @@ Each file includes:
 * Day 55: Longest Common Prefix (#14)
 * Day 56: Rotate String (#796)
 * Day 57: -> Valid Anagram (#242)  
-          -> 
+          -> Remove Duplicates from a Sorted Doubly Linked List
 *
 
 ---
