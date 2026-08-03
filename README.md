@@ -104,6 +104,10 @@ Each file includes:
 * Day 53: Intersection of Two Linked Lists (#160)
 * Day 54: Remove Linked List Elements (#203)
 * Day 55: Longest Common Prefix (#14)
+* Day 56: Rotate String (#796)
+* Day 57: -> Valid Anagram (#242)  
+          -> 
+*
 
 ---
 
