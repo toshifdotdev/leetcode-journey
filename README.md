@@ -108,7 +108,8 @@ Each file includes:
 * Day 57: -> Valid Anagram (#242)  
           -> Remove Duplicates from a Sorted Doubly Linked List  
           -> Find Pairs with Given Sum in a Sorted Doubly Linked List (GFG)
-* Day 58:  Reverse Nodes in k-Group (#25)
+* Day 58: Reverse Nodes in k-Group (#25)
+* Day 59: Rotate List (#61)
 
 
 ---
