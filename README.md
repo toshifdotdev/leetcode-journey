@@ -110,6 +110,8 @@ Each file includes:
           -> Find Pairs with Given Sum in a Sorted Doubly Linked List (GFG)
 * Day 58: Reverse Nodes in k-Group (#25)
 * Day 59: Rotate List (#61)
+* Day 60: -> Remove Element (#27)  
+          -> 
 
 
 ---
