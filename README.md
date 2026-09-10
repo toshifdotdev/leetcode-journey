@@ -134,7 +134,8 @@ Each file includes:
           -> Single Number II (#137)  
 * Day 75: -> Find Greatest Common Divisor of Array (#1979)  
           -> Count Primes (#204)
-*Day 76: 
+*Day 76:  -> Valid Parentheses (#20)  
+          -> 
 
 
 
