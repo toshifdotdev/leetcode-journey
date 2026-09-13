@@ -137,7 +137,7 @@ Each file includes:
 * Day 76:  -> Valid Parentheses (#20)  
           -> Implement Stack using Queues (#225)
           -> Implement Queue using Stacks (#232)
-* Day 77: 
+* Day 77: -> Next Greater Element I (#496)
 
 
 
