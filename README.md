@@ -140,7 +140,7 @@ Each file includes:
 * Day 77: -> Next Greater Element I (#496)  
           -> Next Greater Element II (#503)
 * Day 78: -> Sum of Subarray Minimums (#907)
-          -> 
+          -> Trapping Rain Water (#42)
           
 
 
