@@ -142,6 +142,7 @@ Each file includes:
 * Day 78: -> Sum of Subarray Minimums (#907)
           -> Trapping Rain Water (#42)
 * Day 79: -> Asteroid Collision (#735)
+          -> Longest Palindromic Substring(#5)
           -> 
           
 
