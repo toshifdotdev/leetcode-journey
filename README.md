@@ -145,6 +145,8 @@ Each file includes:
           -> Longest Palindromic Substring(#5)
           -> Maximum 69 Number(#1323)
           -> Battleships in a Board (LeetCode #419)
+* Day 80: -> Remove K Digits (LeetCode #402)
+          -> 
           
 
 
