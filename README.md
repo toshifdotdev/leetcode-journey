@@ -149,6 +149,7 @@ Each file includes:
 * Day 81: Largest Rectangle in Histogram (LeetCode #84)
 * Day 82: Sliding Window Maximum (LeetCode #239)
 * Day 83: Online Stock Span (LeetCode #901)
+* Day 84: LRU Cache (LeetCode #146)
 
           
 
