@@ -45,6 +45,10 @@ class Solution {
         }
         
         Arrays.sort(arr, new MyComp());
+
+        // or ->> 
+        // Arrays.sort(arr, (a, b) -> Double.compare((double)b.value/b.weight, (double)a.value/a.weight));
+
         
         double totalVal = 0;
         for(int i = 0; i < n; i++) {

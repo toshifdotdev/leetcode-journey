@@ -144,16 +144,18 @@ Each file includes:
 * Day 79: -> Asteroid Collision (#735)
           -> Longest Palindromic Substring(#5)
           -> Maximum 69 Number(#1323)
-          -> Battleships in a Board (LeetCode #419)
-* Day 80: -> Remove K Digits (LeetCode #402)
-* Day 81: Largest Rectangle in Histogram (LeetCode #84)
-* Day 82: Sliding Window Maximum (LeetCode #239)
-* Day 83: Online Stock Span (LeetCode #901)
-* Day 84: LRU Cache (LeetCode #146)
-* Day 85: -> LFU Cache (LeetCode #460)  
-          -> Assign Cookies (LeetCode #455)
-* Day 86: -> Lemonade Change (LeetCode #860)  
-          -> Fractional Knapsack
+          -> Battleships in a Board (#419)
+* Day 80: -> Remove K Digits (#402)
+* Day 81: Largest Rectangle in Histogram (#84)
+* Day 82: Sliding Window Maximum (#239)
+* Day 83: Online Stock Span (#901)
+* Day 84: LRU Cache (#146)
+* Day 85: -> LFU Cache (#460)  
+          -> Assign Cookies (#455)
+* Day 86: -> Lemonade Change (#860)  
+          -> Fractional Knapsack (GFG)
+* Day 87: -> Jump Game (#Problem 55)
+          ->
 
 
 
