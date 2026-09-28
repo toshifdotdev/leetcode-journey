@@ -157,7 +157,7 @@ Each file includes:
 * Day 87: -> Jump Game (#Problem 55)
           -> Find the Difference (#389)
 * Day 88: -> To Lower Case (#709)
-          ->
+          -> Perfect Number (#507)
 
 
 
