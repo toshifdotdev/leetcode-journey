@@ -165,6 +165,7 @@ Each file includes:
 * Day 92: Clear Digits (#3174)
 * Day 93: Valid Parenthesis String (#678)  
 * Day 94: Candy (#135)
+* Day 95: Count Integers With Even Digit Sum (#2180)
 
 
 
