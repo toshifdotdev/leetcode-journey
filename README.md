@@ -166,6 +166,8 @@ Each file includes:
 * Day 93: Valid Parenthesis String (#678)  
 * Day 94: Candy (#135)
 * Day 95: Count Integers With Even Digit Sum (#2180)
+* Day 96: -> Longest Substring Without Repeating Characters (#3)  
+          -> 
 
 
 
