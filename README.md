@@ -168,7 +168,8 @@ Each file includes:
 * Day 95: Count Integers With Even Digit Sum (#2180)
 * Day 96: -> Longest Substring Without Repeating Characters (#3)  
           -> Max Consecutive Ones III (#1004)  
-* Day 97: -> Fruit Into Baskets (#904)  
+* Day 97: Fruit Into Baskets (#904)  
+* Day 98: -> Longest Repeating Character Replacement (#424)  
           -> 
 
 
