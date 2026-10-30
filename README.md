@@ -174,7 +174,8 @@ Each file includes:
 * Day 100: -> Number of Substrings Containing All Three Characters (#1358)  
            -> Binary Subarrays With Sum (#930)
 * Day 101: -> Count Number of Nice Subarrays (#1248)  
-           -> 
+           -> Subarrays with K Different Integers (#992)
+* Day 102: 
 
 
 
